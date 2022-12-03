@@ -40,6 +40,7 @@ gcode_store_size = 1000
 [file_manager]
 enable_object_processing = True
 
+<<<<<<< HEAD
 [update_manager led_effect]
 type = git_repo
 path = ~/klipper-led_effect
@@ -65,3 +66,5 @@ env = ~/mobileraker-env/bin/python
 requirements = scripts/mobileraker-requirements.txt
 install_script = scripts/install-mobileraker-companion.sh
 
+=======
+>>>>>>> refs/remotes/origin/master
